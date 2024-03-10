@@ -276,9 +276,58 @@ h1 {
 
 /* WORK SECTION START */
 
+.work-access {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
+}
+.work-access-title {
+  font-size: 24px;
+  line-height: 31.2px;
+  padding-top: 56px;
+}
+.work-access-description {
+  font-weight: 400;
+  width: 719px;
+  padding-bottom: 16px;
+}
 
+.work-possibilities {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.work-list {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+.work-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  font-size: 20px;
+  line-height: 26px;
+}
 
-/* WORK SECTION START */
+.work-text-title {
+  padding-bottom: 8px;
+}
+
+.work-text-discription {
+  width: 493px;
+}
+
+.work-btn {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 56px;
+}
+
+/* WORK SECTION END */
 
 /* MAIN STYLES END */
 
