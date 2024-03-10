@@ -383,3 +383,74 @@ h1 {
 }
 
 /* FOOTER STYLES END */
+
+/* SERVICES START */
+
+/* MAIN START */
+
+/* SECTION SERVICES2 START */
+
+.services2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 72px;
+  padding-bottom: 72px;
+  gap: 16px;
+}
+.services2-title {
+  font-size: 40px;
+  line-height: 52px;
+}
+.services2-discription {
+  font-weight: 400;
+  width: 800px;
+}
+
+/* SECTION SERVICES2 END */
+
+/* SECTION OPPORTUNITIES START */
+
+
+.opportunities-container {
+  padding-top: 80px;
+}
+.opportunities-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 64px;
+  box-shadow: 0px 10px 16px 0px #0000001f;
+}
+
+.opportunities-text-title {
+  font-size: 20px;
+  line-height: 26px;
+  margin-bottom: 16px;
+}
+.opportunities-text-discription {
+  margin-bottom: 16px;
+  font-weight: 400;
+  width: 500px;
+}
+
+.opportunities-text-item {
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+.opportunities-text-btn {
+  margin-right: 16px;
+  margin-bottom: 32px;
+}
+.opportunities-text-link {
+  text-decoration: underline;
+  color: #00bafc;
+}
+
+/* SECTION OPPORTUNITIES END */
+
+/* MAIN END */
+
+/* SERVICES END */
